@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Heading tags:Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <p> This is a paragraph.</p>
+        <a href="https://codegnan.com">Codegnan</a>
+        <img src="./codegnan.jpeg" alt="codegnan logo">
+        <button>Click me</button>
+        <hr>
+        <div style="background-color: burlywood;">
+            Division: It is a block level element,new line and 100% width
+        </div>
+        <br>
+        <span style="background-color: coral;">
+            span: It is an inline element.it doesn't occupy the entire line.
+        </span>
+        <p>Lorem ipsum &nbsp;&nbsp;&nbsp;&nbsp;dolor sit amet consectetur adipisicing elit.<br> Libero inventore quasi soluta aut hic itaque nihil dolorum molestias ad esse tenetur perferendis maxime, culpa ratione velit suscipit minus sapiente temporibus.</p>
+        <hr>
+        <ol>
+            <li>Shravya</li>
+            <li>Vaishnavi</li>
+            <li>Sumanth</li>
+        </ol>
+        <ol start="50">
+            <li>Shravya</li>
+            <li>Vaishnavi</li>
+            <li>Sumanth</li>
+        </ol>
+        <ol type="A">
+            <li>Shravya</li>
+            <li>Vaishnavi</li>
+            <li>Sumanth</li>
+        </ol>
+        <ul>
+            <li>Shravya</li>
+            <li>Vaishnavi</li>
+            <li>Sumanth</li>
+        </ul>
+        <ul type="square">
+            <li>Shravya</li>
+            <li>Vaishnavi</li>
+            <li>Sumanth</li>
+        </ul>
+    </div>
+</body>
+</html>
